@@ -1,4 +1,4 @@
 # practice
 practice repository
 <br>
-just ignore this repository
+just ignore this repository oky
